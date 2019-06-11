@@ -5,6 +5,5 @@ public class Main {
         Phonebook phonebook = new Phonebook();
         phonebook.readFromFile("C:\\Users\\anton\\Desktop\\phoneBook.txt");
         phonebook.getTopFive();
-
     }
 }
